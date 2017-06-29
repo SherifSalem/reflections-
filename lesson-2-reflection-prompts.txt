@@ -5,6 +5,7 @@ answer/ we start to create a git repository in order to keep track of the files 
 
 q/How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+
 answer/ working directory is the directory where our files and repository exist, where repository where the history of our siles resides, while staging area is the area we keep a shadow copy of our changed files before we commit their changes to our project.
 
 
