@@ -35,7 +35,7 @@ files in one commit, while others, like Google Docs, treat each file separately?
  
 Fill in your answer here
 
-answer/ cz git saves the whole files of a project in a single folder called repository which means that those files related to each other by some mean and changing in one of them might affect the others as in changing in an web page project, for the page to work properly things are connected together, html file, css file, and js file so one needs to have vrsion of all these files saved whenever he make a commit to one of them
+answer/ cz git saves the whole files of a project in a single folder called repository which means that those files related to each other by some mean and changing in one of them might affect the others as in changing in an web page project, for the page to work properly things are connected together, html file, css file, and js file so one needs to have vrsion of all these files saved whenever he make a commit to one of them.
 
 
 q/How can you use the commands git log and git diff to view the history of files?
@@ -44,7 +44,7 @@ q/How can you use the commands git log and git diff to view the history of files
 Fill in your answer here
 
 
-answer/git log displays the log of the commits that are changed in our projects while we use git diff to compare the changes in each file 
+answer/git log displays the log of the commits that are changed in our projects while we use git diff to compare the changes in each file. 
 
 
 q/How might using version control make you more confident to make changes that 
