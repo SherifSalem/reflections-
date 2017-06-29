@@ -1,0 +1,66 @@
+q/How did viewing a diff between two versions of a file help you see the bug that 
+was introduced?
+
+ 
+Fill in your answer here
+
+
+asnwer/it make it so easy comparing between the properly working file and the bugged file as the contrast clear it up.
+
+
+q/How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+
+Fill in your answer here
+answer/ it really helps in the long term by knowing tracking the effeciency of code been written,  its readability, bugs that one might have in his code and fixing them in the updated versions, it help enhance programmer's experience, tracking his programing skills improvements.
+
+
+
+q/What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    
+Fill in your answer here
+answer/ pros: you can save ur code in a certain point that u know and then u can add a description to ur saved file related to the progres u have made -separate every reasonable change in a commit at a time, 
+
+cons: the problem if u lost ur progres in case u didn't save ur prgress for any reason like power off so u ll need to do ur work ll over again 
+
+
+q/
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+ 
+Fill in your answer here
+
+answer/ cz git saves the whole files of a project in a single folder called repository which means that those files related to each other by some mean and changing in one of them might affect the others as in changing in an web page project, for the page to work properly things are connected together, html file, css file, and js file so one needs to have vrsion of all these files saved whenever he make a commit to one of them
+
+
+q/How can you use the commands git log and git diff to view the history of files?
+
+    
+Fill in your answer here
+
+
+answer/git log displays the log of the commits that are changed in our projects while we use git diff to compare the changes in each file 
+
+
+q/How might using version control make you more confident to make changes that 
+could break something?
+
+   
+ Fill in your answer here
+
+
+answer/ as one can easily checkout to any of the previous commits 
+
+u should not worry about changing files 
+
+q/Now that you have your workspace set up, what do you want to try using Git for?
+
+
+
+    Fill in your answer here
+answer/  wanna use it for what is it made for making everything easier n quicker comparing files committing changes checkingout everything 
