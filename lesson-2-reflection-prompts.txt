@@ -30,9 +30,16 @@ answer/ branches helps when u wanna try adding new features or editing ur work a
 
 
 
-How do the diagrams help you visualize the branch structure?
+q/How do the diagrams help you visualize the branch structure?
+
+answer/ by knowing the sequenced commits and the head that we r working on understanding the error msg 
+
+
+
+
 
 What is the result of merging two branches together? 
+
 
 
 
