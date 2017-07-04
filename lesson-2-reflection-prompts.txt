@@ -38,16 +38,17 @@ answer/ by knowing the sequenced commits and the head that we r working on under
 
 
 
-What is the result of merging two branches together? 
+q/ What is the result of merging two branches together?Why do we represent it in
+ the diagram the way we do?
 
 
 
 
-Why do we represent it in
-the diagram the way we do?
+answer/ merging two branches results in adding all the commits in those branches to one main branch organized by the date and time they were made as we might be workin on a new feature or an exprimental branch so we add the the new feature to the other branch 
+we represent them that way to demonestrate which commit was when 
 
-
-
-
-What are the pros and cons of Git's automatic merging vs. always doing merges
+q/ What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+
+asnwer/ ppl who r merging are always know what did they do and modified so its better they resolve conflict than doin it automatically as git doesn't know what keep or what to remove as it always about differences in lines for it 
