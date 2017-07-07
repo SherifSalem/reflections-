@@ -7,11 +7,19 @@ local?
 answer/ when we want to share files with others or when collaborating with others in a project.
 
 
+team members, i might be working on an experimental branch and i want to pull in a certain check point to test specific function, or i wanna pull other team members work after they finish it to test or give a feed back or to integrate it with other functions and applications.
+
 
 Why might you want to always pull changes manually rather than having Git
-automatically stay up-to-date with your remote repository?
+ automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+  
+
+Fill in your answer / regarding to collaborative work with other 
+
+
+
+here
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
